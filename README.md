@@ -12,6 +12,6 @@ latent space is diagonal OU (mean-reverting noise where each dimension does its 
 @misc{algomancer2025,
   author = {@algomancer},
   title  = {Some Dumb Shit},
-  year   = {2024}
+  year   = {2025}
 }
 ```
