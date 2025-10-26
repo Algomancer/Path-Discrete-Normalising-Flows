@@ -297,7 +297,6 @@ def save_samples_plot(samples: Tensor, filename: str = "plot.jpg"):
 
 if __name__ == "__main__":
     device = "cuda"
-    torch.manual_seed(SEED)
 
     # Data
     batch_size = 2 ** 10
